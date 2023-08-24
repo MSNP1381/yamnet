@@ -1,0 +1,882 @@
+[
+  [
+    "acoustic-guitar-logo-13084.wav",
+    "Sound_Guitar",
+    [7.059726238250732, 0.0833333358168602],
+    {
+      "Sound_Drum": 0.08700080960988998,
+      "Sound_Guitar": 0.06182165816426277,
+      "Sound_Piano": 0.017823105677962303,
+      "Sound_Violin": 0.08723476529121399
+    }
+  ],
+  [
+    "guitar-chords-70663.wav",
+    "Sound_Guitar",
+    [8.596208572387695, 0.4285714328289032],
+    {
+      "Sound_Drum": 0.04474322497844696,
+      "Sound_Guitar": 0.03179396316409111,
+      "Sound_Piano": 0.009166154079139233,
+      "Sound_Violin": 0.04486355930566788
+    }
+  ],
+  [
+    "guitar-intro-110935.wav",
+    "Sound_Guitar",
+    [7.227354526519775, 0.739130437374115],
+    {
+      "Sound_Drum": 5.243339458769389e-29,
+      "Sound_Guitar": 8.067902296676633e-29,
+      "Sound_Piano": 1.56547876406352e-29,
+      "Sound_Violin": 5.518563273765831e-29
+    }
+  ],
+  [
+    "guitar-solo-27194.wav",
+    "Sound_Guitar",
+    [6.2492146492004395, 0.5204081535339355],
+    {
+      "Sound_Drum": 0.026993973180651665,
+      "Sound_Guitar": 0.018959587439894676,
+      "Sound_Piano": 0.005475664511322975,
+      "Sound_Violin": 0.02707706205546856
+    }
+  ],
+  [
+    "guitar-solo-5999.wav",
+    "Sound_Guitar",
+    [0.6106034517288208, 0.939393937587738],
+    {
+      "Sound_Drum": 0.015818309038877487,
+      "Sound_Guitar": 0.011240288615226746,
+      "Sound_Piano": 0.0032405592501163483,
+      "Sound_Violin": 0.015860851854085922
+    }
+  ],
+  [
+    "guitar-solo-74247.wav",
+    "Sound_Guitar",
+    [64.63732147216797, 0.1034482792019844],
+    {
+      "Sound_Drum": 1.2148561836511362e-6,
+      "Sound_Guitar": 2.527857532186317e-7,
+      "Sound_Piano": 1.234400599514629e-7,
+      "Sound_Violin": 1.2613313629117329e-6
+    }
+  ],
+  [
+    "guitar-song-57789.wav",
+    "Sound_Guitar",
+    [1.461078405380249, 0.8820960521697998],
+    {
+      "Sound_Drum": 0.0007820993778295815,
+      "Sound_Guitar": 0.0004461155622266233,
+      "Sound_Piano": 0.00010959016071865335,
+      "Sound_Violin": 0.0007555626798421144
+    }
+  ],
+  [
+    "guitar-soundtrack-55233.wav",
+    "Sound_Guitar",
+    [20.778833389282227, 0.09036144614219666],
+    {
+      "Sound_Drum": 0.018867729231715202,
+      "Sound_Guitar": 0.013407103717327118,
+      "Sound_Piano": 0.0038652538787573576,
+      "Sound_Violin": 0.01891847886145115
+    }
+  ],
+  [
+    "guitar-swellsolo-34241.wav",
+    "Sound_Guitar",
+    [26.274234771728516, 0.1111111119389534],
+    {
+      "Sound_Drum": 0.044783417135477066,
+      "Sound_Guitar": 0.031039679422974586,
+      "Sound_Piano": 0.008919636718928814,
+      "Sound_Violin": 0.04493656009435654
+    }
+  ],
+  [
+    "intro-music-black-box-simple-guitar-12701.wav",
+    "Sound_Guitar",
+    [0.8785057663917542, 0.6853932738304138],
+    {
+      "Sound_Drum": 0.11992195248603821,
+      "Sound_Guitar": 0.08490537106990814,
+      "Sound_Piano": 0.02441447786986828,
+      "Sound_Violin": 0.12016895413398743
+    }
+  ],
+  [
+    "rock_1_100BPM.wav",
+    "Sound_Guitar",
+    [0.27338463068008423, 0.8305084705352783],
+    {
+      "Sound_Drum": 0.0884752869606018,
+      "Sound_Guitar": 0.06286940723657608,
+      "Sound_Piano": 0.01812516339123249,
+      "Sound_Violin": 0.08871323615312576
+    }
+  ],
+  [
+    "rock_2_100BPM.wav",
+    "Sound_Guitar",
+    [0.09836169332265854, 0.9491525292396545],
+    {
+      "Sound_Drum": 0.02654258720576763,
+      "Sound_Guitar": 0.018860824406147003,
+      "Sound_Piano": 0.005437548737972975,
+      "Sound_Violin": 0.02661397121846676
+    }
+  ],
+  [
+    "rock_3_100BPM.wav",
+    "Sound_Guitar",
+    [0.44144678115844727, 0.7457627058029175],
+    {
+      "Sound_Drum": 0.11517126113176346,
+      "Sound_Guitar": 0.08176714181900024,
+      "Sound_Piano": 0.02357473038136959,
+      "Sound_Violin": 0.11548536270856857
+    }
+  ],
+  [
+    "rock_4_110BPM.wav",
+    "Sound_Guitar",
+    [0.21146038174629211, 0.8703703880310059],
+    {
+      "Sound_Drum": 0.06766720861196518,
+      "Sound_Guitar": 0.04808345437049866,
+      "Sound_Piano": 0.01386239379644394,
+      "Sound_Violin": 0.06784920394420624
+    }
+  ],
+  [
+    "rock_5_100BPM.wav",
+    "Sound_Guitar",
+    [0.19124576449394226, 0.8813559412956238],
+    {
+      "Sound_Drum": 0.061932697892189026,
+      "Sound_Guitar": 0.044008586555719376,
+      "Sound_Piano": 0.012687614187598228,
+      "Sound_Violin": 0.06209927052259445
+    }
+  ],
+  [
+    "rock_6_100BPM.wav",
+    "Sound_Guitar",
+    [0.0699913427233696, 0.9568345546722412],
+    {
+      "Sound_Drum": 0.02253255434334278,
+      "Sound_Guitar": 0.016011346131563187,
+      "Sound_Piano": 0.004616048652678728,
+      "Sound_Violin": 0.02259315736591816
+    }
+  ],
+  [
+    "rock_7_100BPM.wav",
+    "Sound_Guitar",
+    [0.08283238112926483, 0.9496402740478516],
+    {
+      "Sound_Drum": 0.026287978515028954,
+      "Sound_Guitar": 0.01867990382015705,
+      "Sound_Piano": 0.005385390482842922,
+      "Sound_Violin": 0.02635868266224861
+    }
+  ],
+  [
+    "rock_8_100BPM.wav",
+    "Sound_Guitar",
+    [0.11939870566129684, 0.9240506291389465],
+    {
+      "Sound_Drum": 0.03303823992609978,
+      "Sound_Guitar": 0.023476552218198776,
+      "Sound_Piano": 0.006768256891518831,
+      "Sound_Violin": 0.03312709555029869
+    }
+  ],
+  [
+    "ska_1_150BPM.wav",
+    "Sound_Guitar",
+    [0.16092079877853394, 0.9230769276618958],
+    {
+      "Sound_Drum": 0.040154170244932175,
+      "Sound_Guitar": 0.02853304333984852,
+      "Sound_Piano": 0.008226035162806511,
+      "Sound_Violin": 0.04026216268539429
+    }
+  ],
+  [
+    "ska_2_150BPM.wav",
+    "Sound_Guitar",
+    [0.2804688811302185, 0.8717948794364929],
+    {
+      "Sound_Drum": 0.05353889241814613,
+      "Sound_Guitar": 0.03804405406117439,
+      "Sound_Piano": 0.010968047194182873,
+      "Sound_Violin": 0.05368288233876228
+    }
+  ],
+  [
+    "100bpm-808-like-drum-loop-74838.wav",
+    "Sound_Drum",
+    [0.7898589968681335, 0.0],
+    {
+      "Sound_Drum": 1.2860701392725105e-10,
+      "Sound_Guitar": 6.753375900766644e-15,
+      "Sound_Piano": 2.9754399898801465e-13,
+      "Sound_Violin": 1.443919706023422e-10
+    }
+  ],
+  [
+    "darbuka-drum-percussion-64018.wav",
+    "Sound_Drum",
+    [0.9875816702842712, 0.015384615398943424],
+    {
+      "Sound_Drum": 0.2559819221496582,
+      "Sound_Guitar": 0.17980873584747314,
+      "Sound_Piano": 0.051761444658041,
+      "Sound_Violin": 0.25675109028816223
+    }
+  ],
+  [
+    "hip-hop-drum-loop-22-33572.wav",
+    "Sound_Drum",
+    [0.8043831586837769, 0.0],
+    {
+      "Sound_Drum": 0.02802206017076969,
+      "Sound_Guitar": 0.019788380712270737,
+      "Sound_Piano": 0.005709454417228699,
+      "Sound_Violin": 0.028105227276682854
+    }
+  ],
+  [
+    "hip-hop-drum-loop-25-33571.wav",
+    "Sound_Drum",
+    [0.783308744430542, 0.0],
+    {
+      "Sound_Drum": 5.366456025512889e-5,
+      "Sound_Guitar": 5.055053406977095e-6,
+      "Sound_Piano": 2.52646873377671e-6,
+      "Sound_Violin": 5.624735422316007e-5
+    }
+  ],
+  [
+    "kitchen-drum200616_0006_01-39711.wav",
+    "Sound_Drum",
+    [10.018768310546875, 0.1428571492433548],
+    {
+      "Sound_Drum": 1.1951770773066528e-7,
+      "Sound_Guitar": 1.6779740263928034e-8,
+      "Sound_Piano": 1.2950560623892216e-8,
+      "Sound_Violin": 1.143788850299643e-7
+    }
+  ],
+  [
+    "muvibeat3_130bpm-14333.wav",
+    "Sound_Drum",
+    [0.7904676198959351, 0.014705882407724857],
+    {
+      "Sound_Drum": 0.029795456677675247,
+      "Sound_Guitar": 0.019809873774647713,
+      "Sound_Piano": 0.005635545123368502,
+      "Sound_Violin": 0.029935255646705627
+    }
+  ],
+  [
+    "muvibeat4_130bpm-14334.wav",
+    "Sound_Drum",
+    [2.081080675125122, 0.03921568766236305],
+    {
+      "Sound_Drum": 0.010459033772349358,
+      "Sound_Guitar": 0.0073156519792973995,
+      "Sound_Piano": 0.0021127595100551844,
+      "Sound_Violin": 0.01049367617815733
+    }
+  ],
+  [
+    "muvibeat5_130bpm-14335.wav",
+    "Sound_Drum",
+    [11.0523681640625, 0.3239436745643616],
+    {
+      "Sound_Drum": 0.008986778557300568,
+      "Sound_Guitar": 0.005883523728698492,
+      "Sound_Piano": 0.0016774667892605066,
+      "Sound_Violin": 0.0090313870459795
+    }
+  ],
+  [
+    "paft-drunk-freestyle-drum-22227.wav",
+    "Sound_Drum",
+    [0.7572804093360901, 0.0],
+    {
+      "Sound_Drum": 0.0002095811505569145,
+      "Sound_Guitar": 2.4840637706802227e-5,
+      "Sound_Piano": 1.1016439202649053e-5,
+      "Sound_Violin": 0.00021862493304070085
+    }
+  ],
+  [
+    "percussion-spirit-drums-by-prettysleepy-art-13788.wav",
+    "Sound_Drum",
+    [0.8465116024017334, 0.0],
+    {
+      "Sound_Drum": 0.01959407515823841,
+      "Sound_Guitar": 0.013885379768908024,
+      "Sound_Piano": 0.004003905691206455,
+      "Sound_Violin": 0.019649095833301544
+    }
+  ],
+  [
+    "phaze-giant-bass-69687.wav",
+    "Sound_Drum",
+    [1.047000765800476, 0.12280701845884323],
+    {
+      "Sound_Drum": 0.006079297512769699,
+      "Sound_Guitar": 0.0027087023481726646,
+      "Sound_Piano": 0.0006978852907195687,
+      "Sound_Violin": 0.006157410331070423
+    }
+  ],
+  [
+    "pop-drums-loops-3-11278.wav",
+    "Sound_Drum",
+    [0.7671604156494141, 0.0],
+    {
+      "Sound_Drum": 6.078683156829356e-8,
+      "Sound_Guitar": 4.179259369130328e-12,
+      "Sound_Piano": 1.9128175432481243e-10,
+      "Sound_Violin": 6.691200837849465e-8
+    }
+  ],
+  [
+    "pop-rock-beat-fs-27798.wav",
+    "Sound_Drum",
+    [0.752494752407074, 0.0],
+    {
+      "Sound_Drum": 0.0005504577420651913,
+      "Sound_Guitar": 2.973061054944992e-5,
+      "Sound_Piano": 2.2868282030685805e-5,
+      "Sound_Violin": 0.0005739104235544801
+    }
+  ],
+  [
+    "psy-bass-beat-sample-101275.wav",
+    "Sound_Drum",
+    [0.7833884954452515, 0.0],
+    {
+      "Sound_Drum": 5.385314807426766e-7,
+      "Sound_Guitar": 2.01192007498463e-10,
+      "Sound_Piano": 3.2400189198256157e-9,
+      "Sound_Violin": 5.782097218798299e-7
+    }
+  ],
+  [
+    "pulsing-rhythm-31775.wav",
+    "Sound_Drum",
+    [0.8451805710792542, 0.043478261679410934],
+    {
+      "Sound_Drum": 0.0013044595252722502,
+      "Sound_Guitar": 0.0004721282748505473,
+      "Sound_Piano": 0.00012942681496497244,
+      "Sound_Violin": 0.0013292364310473204
+    }
+  ],
+  [
+    "rock-drum-loop-85371.wav",
+    "Sound_Drum",
+    [0.7933942079544067, 0.0],
+    {
+      "Sound_Drum": 5.42932667713103e-8,
+      "Sound_Guitar": 1.3572017858523577e-12,
+      "Sound_Piano": 1.218510292666508e-10,
+      "Sound_Violin": 5.922430901250664e-8
+    }
+  ],
+  [
+    "simple-loopable-beat-88509.wav",
+    "Sound_Drum",
+    [0.7929599285125732, 0.0],
+    {
+      "Sound_Drum": 4.340247323852964e-5,
+      "Sound_Guitar": 3.489791140509624e-7,
+      "Sound_Piano": 8.848699053487508e-7,
+      "Sound_Violin": 4.577585059450939e-5
+    }
+  ],
+  [
+    "time-break-drum-only-83822.wav",
+    "Sound_Drum",
+    [0.7798863053321838, 0.0],
+    {
+      "Sound_Drum": 0.0028824845794588327,
+      "Sound_Guitar": 0.0007933183223940432,
+      "Sound_Piano": 0.00023725623032078147,
+      "Sound_Violin": 0.002958757570013404
+    }
+  ],
+  [
+    "tribe-drum-loop-103173.wav",
+    "Sound_Drum",
+    [1.048451542854309, 0.0],
+    {
+      "Sound_Drum": 1.9968389608493453e-8,
+      "Sound_Guitar": 6.136932325165323e-13,
+      "Sound_Piano": 5.881832521037467e-11,
+      "Sound_Violin": 2.2121399823049614e-8
+    }
+  ],
+  [
+    "world-drum-beat-76217.wav",
+    "Sound_Drum",
+    [1.3279008865356445, 0.6000000238418579],
+    {
+      "Sound_Drum": 0.046482499688863754,
+      "Sound_Guitar": 0.030680809170007706,
+      "Sound_Piano": 0.008539019152522087,
+      "Sound_Violin": 0.046538569033145905
+    }
+  ],
+  [
+    "Sad-Violin-A-www.fesliyanstudios.com.wav",
+    "Sound_Violin",
+    [37.50389862060547, 0.1428571492433548],
+    {
+      "Sound_Drum": 0.07457202672958374,
+      "Sound_Guitar": 0.052989933639764786,
+      "Sound_Piano": 0.015276922844350338,
+      "Sound_Violin": 0.07477258890867233
+    }
+  ],
+  [
+    "Sad-Violin-C-www.fesliyanstudios.com.wav",
+    "Sound_Violin",
+    [25.544557571411133, 0.25],
+    {
+      "Sound_Drum": 0.0978858470916748,
+      "Sound_Guitar": 0.06955049932003021,
+      "Sound_Piano": 0.02005154639482498,
+      "Sound_Violin": 0.0981496274471283
+    }
+  ],
+  [
+    "Sad-Violin-D-www.fesliyanstudios.com.wav",
+    "Sound_Violin",
+    [28.768625259399414, 0.0],
+    {
+      "Sound_Drum": 4.941708084515994e-6,
+      "Sound_Guitar": 2.023278284468688e-6,
+      "Sound_Piano": 8.07698370408616e-7,
+      "Sound_Violin": 3.973709226556821e-6
+    }
+  ],
+  [
+    "Sad-Violin-Fast-E-www.fesliyanstudios.com.wav",
+    "Sound_Violin",
+    [17.310039520263672, 0.4166666567325592],
+    {
+      "Sound_Drum": 0.05992451682686806,
+      "Sound_Guitar": 0.03866581246256828,
+      "Sound_Piano": 0.01096267718821764,
+      "Sound_Violin": 0.0601518340408802
+    }
+  ],
+  [
+    "Sad-Violin-G-www.fesliyanstudios.com.wav",
+    "Sound_Violin",
+    [28.075437545776367, 0.3333333432674408],
+    {
+      "Sound_Drum": 0.11604075878858566,
+      "Sound_Guitar": 0.0824531689286232,
+      "Sound_Piano": 0.02376902848482132,
+      "Sound_Violin": 0.11635320633649826
+    }
+  ],
+  [
+    "Sad-Violin-H-www.fesliyanstudios.com.wav",
+    "Sound_Violin",
+    [19.858739852905273, 0.23529411852359772],
+    {
+      "Sound_Drum": 0.09212004393339157,
+      "Sound_Guitar": 0.06545840948820114,
+      "Sound_Piano": 0.01887163147330284,
+      "Sound_Violin": 0.09236782789230347
+    }
+  ],
+  [
+    "Sad-Violin-J-Slow-www.fesliyanstudios.com.wav",
+    "Sound_Violin",
+    [9.17613697052002, 0.4285714328289032],
+    {
+      "Sound_Drum": 0.12428943067789078,
+      "Sound_Guitar": 0.08831676095724106,
+      "Sound_Piano": 0.025461668148636818,
+      "Sound_Violin": 0.12462387979030609
+    }
+  ],
+  [
+    "Sad-Violin-Lower-F-www.fesliyanstudios.com.wav",
+    "Sound_Violin",
+    [36.93349838256836, 0.0833333358168602],
+    {
+      "Sound_Drum": 0.04350719973444939,
+      "Sound_Guitar": 0.030916469171643257,
+      "Sound_Piano": 0.00891326367855072,
+      "Sound_Violin": 0.043623000383377075
+    }
+  ],
+  [
+    "Sad-Violin-Moderate-Speed-I-www.fesliyanstudios.com.wav",
+    "Sound_Violin",
+    [16.75383949279785, 0.2222222238779068],
+    {
+      "Sound_Drum": 0.08700069785118103,
+      "Sound_Guitar": 0.0618215948343277,
+      "Sound_Piano": 0.017823077738285065,
+      "Sound_Violin": 0.08723468333482742
+    }
+  ],
+  [
+    "Sad-Violin-Slow-K-www.fesliyanstudios.com.wav",
+    "Sound_Violin",
+    [25.35800552368164, 0.1111111119389534],
+    {
+      "Sound_Drum": 0.029000231996178627,
+      "Sound_Guitar": 0.020607195794582367,
+      "Sound_Piano": 0.005941025447100401,
+      "Sound_Violin": 0.029078228399157524
+    }
+  ],
+  [
+    "Va-ord-E4-ff-4c.wav",
+    "Sound_Violin",
+    [137.5907745361328, 0.06666667014360428],
+    {
+      "Sound_Drum": 0.03497007116675377,
+      "Sound_Guitar": 0.024829011410474777,
+      "Sound_Piano": 0.0071507785469293594,
+      "Sound_Violin": 0.03505496308207512
+    }
+  ],
+  [
+    "Va-ord-E4-mf-3c.wav",
+    "Sound_Violin",
+    [82.48440551757812, 0.06666667014360428],
+    {
+      "Sound_Drum": 4.202869911091537e-15,
+      "Sound_Guitar": 3.817417827564574e-15,
+      "Sound_Piano": 7.578947468357244e-16,
+      "Sound_Violin": 4.323251927621213e-15
+    }
+  ],
+  [
+    "Va-ord-E4-pp-3c.wav",
+    "Sound_Violin",
+    [53.02657699584961, 0.06666667014360428],
+    {
+      "Sound_Drum": 0.03480027988553047,
+      "Sound_Guitar": 0.02472863532602787,
+      "Sound_Piano": 0.007129230536520481,
+      "Sound_Violin": 0.03489387407898903
+    }
+  ],
+  [
+    "Va-ord-F3-mf-4c.wav",
+    "Sound_Violin",
+    [33.78324890136719, 0.0714285746216774],
+    {
+      "Sound_Drum": 1.0707065659434911e-12,
+      "Sound_Guitar": 8.85832151988758e-13,
+      "Sound_Piano": 1.7658479387928916e-13,
+      "Sound_Violin": 1.0969133587557245e-12
+    }
+  ],
+  [
+    "Va-ord-F4-ff-2c.wav",
+    "Sound_Violin",
+    [39.94468307495117, 0.06666667014360428],
+    {
+      "Sound_Drum": 0.03480027988553047,
+      "Sound_Guitar": 0.02472863532602787,
+      "Sound_Piano": 0.007129230536520481,
+      "Sound_Violin": 0.03489387407898903
+    }
+  ],
+  [
+    "Va-ord-F4-mf-3c.wav",
+    "Sound_Violin",
+    [82.67733001708984, 0.13333334028720856],
+    {
+      "Sound_Drum": 0.06960055977106094,
+      "Sound_Guitar": 0.04945727065205574,
+      "Sound_Piano": 0.014258461073040962,
+      "Sound_Violin": 0.06978774815797806
+    }
+  ],
+  [
+    "Va-ord-F5-ff-1c.wav",
+    "Sound_Violin",
+    [55.90618896484375, 0.0625],
+    {
+      "Sound_Drum": 0.032625261694192886,
+      "Sound_Guitar": 0.023183096200227737,
+      "Sound_Piano": 0.006683653686195612,
+      "Sound_Violin": 0.03271300718188286
+    }
+  ],
+  [
+    "Va-ord-F5-mf-3c.wav",
+    "Sound_Violin",
+    [59.72843551635742, 0.06666667014360428],
+    {
+      "Sound_Drum": 0.03480027988553047,
+      "Sound_Guitar": 0.02472863532602787,
+      "Sound_Piano": 0.007129230536520481,
+      "Sound_Violin": 0.03489387407898903
+    }
+  ],
+  [
+    "Va-ord-F6-mf-1c.wav",
+    "Sound_Violin",
+    [24.850889205932617, 0.0],
+    {
+      "Sound_Drum": 2.578057064601955e-31,
+      "Sound_Guitar": 2.0573358717780876e-31,
+      "Sound_Piano": 1.4665985678768701e-30,
+      "Sound_Violin": 1.1805366338401397e-31
+    }
+  ],
+  [
+    "Va-ord-G5-ff-1c.wav",
+    "Sound_Violin",
+    [41.106014251708984, 0.13333334028720856],
+    {
+      "Sound_Drum": 0.03480488434433937,
+      "Sound_Guitar": 0.024731513112783432,
+      "Sound_Piano": 0.007129820063710213,
+      "Sound_Violin": 0.034898530691862106
+    }
+  ],
+  [
+    "ROOM-room8-MUS-beethoven1.wav",
+    "Sound_Piano",
+    [0.147101029753685, 0.9550561904907227],
+    {
+      "Sound_Drum": 0.017595646902918816,
+      "Sound_Guitar": 0.0125032439827919,
+      "Sound_Piano": 0.0036046672612428665,
+      "Sound_Violin": 0.017642969265580177
+    }
+  ],
+  [
+    "ROOM-room8-MUS-beethoven2.wav",
+    "Sound_Piano",
+    [0.10971223562955856, 0.9649122953414917],
+    {
+      "Sound_Drum": 0.013736953027546406,
+      "Sound_Guitar": 0.009761304594576359,
+      "Sound_Piano": 0.0028141699731349945,
+      "Sound_Violin": 0.013773897662758827
+    }
+  ],
+  [
+    "ROOM-room8-MUS-chords.wav",
+    "Sound_Piano",
+    [0.498526006937027, 0.8285714387893677],
+    {
+      "Sound_Drum": 0.05965762212872505,
+      "Sound_Guitar": 0.04239194840192795,
+      "Sound_Piano": 0.012221538461744785,
+      "Sound_Violin": 0.059818070381879807
+    }
+  ],
+  [
+    "ROOM_room6_MUS_mozart_DEV_lg.wav",
+    "Sound_Piano",
+    [0.0001566865830682218, 1.0],
+    {
+      "Sound_Drum": 0.0,
+      "Sound_Guitar": 0.0,
+      "Sound_Piano": 0.0,
+      "Sound_Violin": 0.0
+    }
+  ],
+  [
+    "ROOM_room6_MUS_mozart_DEV_redmi.wav",
+    "Sound_Piano",
+    [0.0016300086863338947, 1.0],
+    {
+      "Sound_Drum": 0.0,
+      "Sound_Guitar": 0.0,
+      "Sound_Piano": 0.0,
+      "Sound_Violin": 0.0
+    }
+  ],
+  [
+    "ROOM_room6_MUS_mozart_DEV_stereomic.wav",
+    "Sound_Piano",
+    [0.0, 1.0],
+    {
+      "Sound_Drum": 0.0,
+      "Sound_Guitar": 0.0,
+      "Sound_Piano": 0.0,
+      "Sound_Violin": 0.0
+    }
+  ],
+  [
+    "ROOM_room6_MUS_pachelbel_DEV_amazon.wav",
+    "Sound_Piano",
+    [0.0740780159831047, 0.9753086566925049],
+    {
+      "Sound_Drum": 0.006444496102631092,
+      "Sound_Guitar": 0.004579376894980669,
+      "Sound_Piano": 0.0013202278641983867,
+      "Sound_Violin": 0.0064618284814059734
+    }
+  ],
+  [
+    "ROOM_room6_MUS_pachelbel_DEV_iphone.wav",
+    "Sound_Piano",
+    [0.08816903829574585, 0.9753086566925049],
+    {
+      "Sound_Drum": 0.006444496102631092,
+      "Sound_Guitar": 0.004579376894980669,
+      "Sound_Piano": 0.0013202278641983867,
+      "Sound_Violin": 0.0064618284814059734
+    }
+  ],
+  [
+    "ROOM_room6_MUS_pachelbel_DEV_lg.wav",
+    "Sound_Piano",
+    [0.0786944106221199, 0.9753086566925049],
+    {
+      "Sound_Drum": 0.012888992205262184,
+      "Sound_Guitar": 0.009158753789961338,
+      "Sound_Piano": 0.0026404557283967733,
+      "Sound_Violin": 0.012923656962811947
+    }
+  ],
+  [
+    "ROOM_room7_MUS_beethoven1_DEV_amazon.wav",
+    "Sound_Piano",
+    [0.02639341540634632, 0.9883720874786377],
+    {
+      "Sound_Drum": 0.0,
+      "Sound_Guitar": 0.0,
+      "Sound_Piano": 0.0,
+      "Sound_Violin": 0.0
+    }
+  ],
+  [
+    "short-logo-108964.wav",
+    "Sound_Piano",
+    [0.1607256680727005, 0.9411764740943909],
+    {
+      "Sound_Drum": 3.731871345280524e-7,
+      "Sound_Guitar": 1.2151537021054537e-7,
+      "Sound_Piano": 6.09626056302659e-8,
+      "Sound_Violin": 3.303130995391257e-7
+    }
+  ],
+  [
+    "short-melancholic-theme-on-piano-34024.wav",
+    "Sound_Piano",
+    [0.005512269679456949, 1.0],
+    {
+      "Sound_Drum": 0.0,
+      "Sound_Guitar": 0.0,
+      "Sound_Piano": 0.0,
+      "Sound_Violin": 0.0
+    }
+  ],
+  [
+    "si-80238.wav",
+    "Sound_Piano",
+    [11.79306697845459, 0.0],
+    {
+      "Sound_Drum": 0.08700069785118103,
+      "Sound_Guitar": 0.0618215911090374,
+      "Sound_Piano": 0.017823075875639915,
+      "Sound_Violin": 0.08723468333482742
+    }
+  ],
+  [
+    "soft-piano-100-bpm-121529.wav",
+    "Sound_Piano",
+    [0.048547130078077316, 0.9750000238418579],
+    {
+      "Sound_Drum": 3.9907654354987013e-19,
+      "Sound_Guitar": 3.076400089780161e-18,
+      "Sound_Piano": 9.043245104554887e-19,
+      "Sound_Violin": 2.712510568717378e-19
+    }
+  ],
+  [
+    "transition-piano-34391.wav",
+    "Sound_Piano",
+    [11.890262603759766, 0.0833333358168602],
+    {
+      "Sound_Drum": 0.016091957688331604,
+      "Sound_Guitar": 0.010984566062688828,
+      "Sound_Piano": 0.0031577320769429207,
+      "Sound_Violin": 0.01609031856060028
+    }
+  ],
+  [
+    "warm-piano-logo-116098.wav",
+    "Sound_Piano",
+    [0.4561237394809723, 0.8620689511299133],
+    {
+      "Sound_Drum": 0.07200057804584503,
+      "Sound_Guitar": 0.05116269364953041,
+      "Sound_Piano": 0.014750132337212563,
+      "Sound_Violin": 0.07219422608613968
+    }
+  ],
+  [
+    "whatever-you-say-piano-27291.wav",
+    "Sound_Piano",
+    [0.18630363047122955, 0.9534883499145508],
+    {
+      "Sound_Drum": 3.589724836370337e-16,
+      "Sound_Guitar": 5.80676343916433e-19,
+      "Sound_Piano": 1.1519492572703325e-17,
+      "Sound_Violin": 3.3706140888767984e-16
+    }
+  ],
+  [
+    "wingrandpiano-96338.wav",
+    "Sound_Piano",
+    [0.5546520948410034, 0.8571428656578064],
+    {
+      "Sound_Drum": 0.07457202672958374,
+      "Sound_Guitar": 0.052989933639764786,
+      "Sound_Piano": 0.015276922844350338,
+      "Sound_Violin": 0.07477258890867233
+    }
+  ],
+  [
+    "wondercue-111933.wav",
+    "Sound_Piano",
+    [0.7557404041290283, 0.8225806355476379],
+    {
+      "Sound_Drum": 0.07577480375766754,
+      "Sound_Guitar": 0.05384460464119911,
+      "Sound_Piano": 0.015523325651884079,
+      "Sound_Violin": 0.0759785920381546
+    }
+  ],
+  [
+    "yuwu-quiz-113046.wav",
+    "Sound_Piano",
+    [1.0116773843765259, 0.6111111044883728],
+    {
+      "Sound_Drum": 0.053424205631017685,
+      "Sound_Guitar": 0.03726302087306976,
+      "Sound_Piano": 0.010554898530244827,
+      "Sound_Violin": 0.05344000831246376
+    }
+  ]
+]
